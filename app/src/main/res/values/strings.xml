@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Inspire Me</string>
+    <string name="nav_item1">All Quotes</string>
+    <string name="nav_item2">Inspire by People</string>
+    <string name="nav_item3">Quote for the Day</string>
+    <string name="nav_item4">Favorites</string>
+    <string name="traitsoft_inc">Traitsoft Inc,</string>
+    <string name="slogan_txt">a gift by Traitsoft Inc,</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav1"
+            android:icon="@drawable/ic_library_books_24dp"
+            android:title="@string/nav_item1" />
+        <item
+            android:id="@+id/nav2"
+            android:icon="@drawable/ic_people_outline_black_24dp"
+            android:title="@string/nav_item2" />
+        <item
+            android:id="@+id/nav3"
+            android:icon="@drawable/ic_style_black_24dp"
+            android:title="@string/nav_item3" />
+        <item
+            android:id="@+id/nav4"
+            android:icon="@drawable/ic_favorite_border_black_24dp"
+            android:title="@string/nav_item4" />
+    </group>
+
+</menu>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "147289736399",
+    "firebase_url": "https://inspireme-91c9e.firebaseio.com",
+    "project_id": "inspireme-91c9e",
+    "storage_bucket": "inspireme-91c9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147289736399:android:aaf9518db9b3d6cd",
+        "android_client_info": {
+          "package_name": "io.traitsoft.inspireme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147289736399-rqbp5iebhe6ioqe8bu7du4jjf97n5a7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.traitsoft.inspireme",
+            "certificate_hash": "503a33183962bf06a50cc4da84295dd9cfea6a43"
+          }
+        },
+        {
+          "client_id": "147289736399-rpv2sea59tj2b5pa5int70r2hr16fkd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAhXeBX5sdBp8SIXOWzcrWYSe3lzIruWA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147289736399-rpv2sea59tj2b5pa5int70r2hr16fkd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
